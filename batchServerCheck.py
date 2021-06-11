@@ -17,14 +17,11 @@ sat_list = {'sat_i0': 'URL',
             'sat_i7': 'URL',
             'sat_i8': 'URL'
             }
-# # JUST FOR TEST PORPUSE
-# sat_list = {'sat_i9': 'http://sat_i9.viatrack.ro/uview?password=gabi1302&email=sat_i3.revival&call=sat.userarea.RedirectRH'}
 html_content_parsed = None
 succes_login = None
 redirected = None
 server_with_problem_list = []
 cant_login_servers = []
-#iterator = 0
 
 # SSH Connect to Server
 ssh = SSHLibrary()
