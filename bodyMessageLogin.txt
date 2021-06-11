@@ -1,0 +1,6 @@
+Salutare,
+
+Intampin o problema la incercare de connectare cu serverul/serverele ${number} prin link-ul aferent. 
+
+Te rog sa verifici credentialele!
+

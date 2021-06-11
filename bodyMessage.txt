@@ -1,0 +1,22 @@
+Salutare,
+
+Avem o problema cu serverele ${number}, s-a incercat repornirea insa fara succes. 
+
+Va rog verificati!
+
+---------------------------------------------------------------------------------------------------------
+
+Va rugam sa nu raspundeti folosind aceasta adresa de e-mail, deoarece nu este monitorizata curent.
+
+Pentru sesizari de natura tehnica ne puteti contacta la: email@domainname.ro  sau telefonic la: [numarul de telefon].
+
+Va multumim!
+
+---------------------------------------------------------------------------------------------------------
+
+Please do not reply to this e-mail address, as it’s not currently monitored.
+
+For Technical Support please write to: email@domainname.ro  or call: [your_phone_number].
+
+Thank you!
+
